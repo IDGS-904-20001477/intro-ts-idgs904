@@ -7,6 +7,9 @@ import './intro.ts/01-tipos-bas.ts'
 import './intro.ts/02-obj-interfaz-arreglos.ts'
 import './intro.ts/03-funciones.ts'
 import './intro.ts/04-desestructura-objetos.ts'
+import './intro.ts/05-clases.ts'
+import './intro.ts/06-herencia.ts'
+import './intro.ts/07-genericos.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
